@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoAntarFragment/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoAntarFragment/app/src/main/res/layout/fragment_first.xml" value="0.22" />
-        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoAntarFragment/app/src/main/res/layout/fragment_second.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoAntarFragment/app/src/main/res/layout/fragment_third.xml" value="0.22" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3425" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/layout/activity_main.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/layout/fragment_calls.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/layout/fragment_chat.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/layout/fragment_status.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ucup/AndroidStudioProjects/DemoFragmentNavigation/app/src/main/res/menu/bottom_navigation.xml" value="0.365625" />
       </map>
     </option>
   </component>
